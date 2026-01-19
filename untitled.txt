@@ -1,1 +1,11 @@
+phoneinfoga scan -n "+41 (61) 204-7318"
+
+Sherlock username 
+
+bash zphisher.sh
+
+
+
+
+
 
