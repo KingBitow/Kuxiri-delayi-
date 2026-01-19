@@ -1,4 +1,4 @@
-phoneinfoga scan -n "+41 (61) 204-7318"
+phoneinfoga scan -n "+41 (61) 123-4567"
 
 Sherlock username 
 
